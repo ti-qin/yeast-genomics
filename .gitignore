@@ -10,13 +10,15 @@ venv/
 
 # Logs
 *.log
+*.info
+*.cmd
 
 # Jupyter
 .ipynb_checkpoints/
 
 # Large data / results
-data/
-results/
+raw_data/
+result/
 output/
 
 # System

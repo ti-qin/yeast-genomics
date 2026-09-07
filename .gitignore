@@ -1,0 +1,34 @@
+# Runtime data and large generated outputs
+/rawdata/
+/raw_data/
+/reads/
+/result/
+/results/
+/results_star_fc/
+/references/
+/containers/
+/run_records/
+*.bam
+*.bai
+*.sam
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.sif
+*.msh
+*.meryl/
+*.log
+*.nohup
+commands*.cmd
+# Python/editor/OS artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.DS_Store
+Thumbs.db
+# Local manuscript review inputs; not part of the code release
+/Yeast_manuscript_*.docx
+/Figures_*.docx
+/.archive/

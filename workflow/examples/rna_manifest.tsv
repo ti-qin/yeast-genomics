@@ -1,0 +1,2 @@
+#species	r1	r2	genome_fasta	annotation_gtf
+example_species	rawdata/rnaseq/example_rep1_R1.fastq.gz	rawdata/rnaseq/example_rep1_R2.fastq.gz	result/final_asm/example.nextpolish.fasta	result/anno/gtf/example.gtf
